@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fb7d2e2e</color>
+    <color name="colorPrimaryDark">#ba7d2e2e</color>
+    <color name="colorAccent">#ccc6c6</color>
+    <color name="colorToolbar">#e4393c</color>
+    <color name="colorTablayout">#e4393c</color>
+    <color name="colorLetrasToolbar">#000000</color>
+    <color name="actividad1">#45b14e</color>
+    <color name="actividad2">#48a3a7</color>
+    <color name="actividad3">#fff307</color>
+    <color name="actividad4">#ff7700</color>
+</resources>
